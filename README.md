@@ -1,6 +1,6 @@
-# NetScan Pro
+# NetScan
 
-**NetScan Pro** is an advanced tool for discovering live hosts on a network and performing comprehensive network scans. It combines host discovery and detailed scanning into a user-friendly script, with the ability to save and manage results for each IP address individually. This tool is ideal for network administrators, security researchers, and anyone looking to analyze their network efficiently.
+**NetScan** is an advanced tool for discovering live hosts on a network and performing comprehensive network scans. It combines host discovery and detailed scanning into a user-friendly script, with the ability to save and manage results for each IP address individually. This tool is ideal for network administrators, security researchers, and anyone looking to analyze their network efficiently.
 
 ## Features
 
